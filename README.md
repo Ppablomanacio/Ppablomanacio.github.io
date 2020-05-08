@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:**  PABLO MARTÍNEZ GÓMEZ 
 
-**Título:** 
+**Título:** PORFOLIO
 
-**Resumen:**
+**Resumen:**  PORFOLIO CON PARTE DE MI OBRA
 
 **Licencia: (creative Commons)**
 
