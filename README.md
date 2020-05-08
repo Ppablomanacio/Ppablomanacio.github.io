@@ -13,6 +13,10 @@
 **Licencia: (creative Commons)**
 
 
+### Memoria del trabajo
+
+En este trabajo muestro una parte de mi producción artística, así como un poco de información sobre mi y alguna referencia.
+
 ### comentarios
 
 Ejemplos de otros años: https://github.com/mgea/interart 
