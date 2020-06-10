@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Porfolio
 
 **Web:**   (url github.io)
 
