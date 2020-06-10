@@ -8,25 +8,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : Porfolio
+**Titulo** : Porfolio.
 
-**Web:**   (url github.io)
+**Web:**   Ppablomanacio.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Pablo Martínez Gómez.
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  porfolio.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:**  640×320px, aunque puede ponerse en 1280×640px para una mejor visualización.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, tanto pc como dispositivo movil.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** xxxxx
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -34,9 +34,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github:Ppablomanacio
+- Twitter: Ppablomanacio
+- Instagram: @Ppablomanacio o @art.pablomg
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -47,6 +47,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+El porfolio empieza con una breve introducción donde aparecen tres obras distintas y que te llevan hasta el logo, oudiendo ser esta saltada para ir directamente a dicho logo. 
+De este logo nos vamos hasta el indice donde encontramos las distintas opciones: podemos conocer algo sobre la vida del autor, conocer parte de su obra desarrollada estos años, permitiendonos verla en conjunto o cada una de las imagenes de manera individual, o realizar un pequeño quizz con autores de referencia para el autor. 
+Finalmente podemos volver al indice para seguir navegando o ir a los créditos para finalizar la visualización.
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
