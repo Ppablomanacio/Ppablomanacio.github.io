@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## PORFOLIO
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  porfolio.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
 (insertar imágenes a resolucion de 100px alto)
 
