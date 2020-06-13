@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-!(https://github.com/Ppablomanacio/Ppablomanacio.github.io/blob/master/logo%201.jpg)
+![Logotipo](https://github.com/mariajoserr/mariajoserr.github.io/blob/master/Logo%20memoria.jpg) 
 
 **Resolución:**  640×320px, aunque puede ponerse en 1280×640px para una mejor visualización.
 
