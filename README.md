@@ -59,7 +59,7 @@ Finalmente podemos volver al indice para seguir navegando o ir a los créditos p
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![navegacion](https://github.com/Ppablomanacio/Ppablomanacio.github.io/blob/master/CMI_projectTemplate-Sitemap.jpg)
 
 
 
@@ -75,22 +75,21 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+El desarollo del proyecto viene basado en el trabajo de artistas a los que sigo en diversas redes y, sobretodo, en alumnos de cursos anteriores, que han motivado la realización del proyecto. A esto sumamos compañeros de este curso que han trabajado a la vez que yo y que han servido de inspiración.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este porfolio trata de ser algo más, no mostrar en un documento sin más la obra, si no que el espectador pueda interactuar, pudiendo conocer datos sobre el autor o referencias. Además, la aparición del pequeño y sencillo quizz permite conocer más artistas que sirven de referencia y cuya obra puede ser desconocida para algunos.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos.
 
 
 
@@ -98,25 +97,25 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Introducción animada.
+- Menú interactivo mediante botones.
+- Galería de imágenes.
+- Video.
+- Música.
+- Juego a modo de quizz.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+He intentado solucionar los problemas surgidos durante la creación, aunque puede producirse fallos en algún boton aunque creo que se encuentran todos arreglados.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Personalmente estoy contento con el resultado porque se trataba de un programa desconocido para mi y me ha costado trabajarlo. Creo que si le podria haber "sacado más jugo", como se suele decir, al porfolio pero las circunstancias no han sido las idoneas. Pese a esto el resultado me parece positivo pues he intentado ir mejorandolo con cada observación de las entregas.
 
 
 
@@ -128,22 +127,21 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://www.youtube.com/watch?v=PZqm04wZ1jM&t=1s
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: C Major Prelude - Bach 
+* Video:  https://www.youtube.com/watch?v=OEZla_o1yhM
+* Tipografía: Kozuka Gothic Pro El
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+Hippani Animator 5.1
+Photoshop
+Avidemux
+Audacity
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
